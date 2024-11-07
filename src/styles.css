@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.product-wrapper {
+  border: 1px solid gray;
+  padding: 5px;
+  margin: 4px;
+}
